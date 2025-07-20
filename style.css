@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.result{
+    display: flex;
+    gap: 10rem;
+}
+
+.user-option{
+    display: flex;
+    gap: .5rem;
+}
+button{
+    padding: .75rem 1.5rem;
+    border-radius: .5rem;
+    border: none;
+}
